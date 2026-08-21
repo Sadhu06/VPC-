@@ -1,13 +1,18 @@
-IAM Working Overview
+DEPLOYMENT AND CONFIGURATION OF A PRIVATE CLOUD IN AWS
+
+NAME: SADHANA S
+
+REGISTER NO: 212224230234
+
 
 AIM
 
-IAM Working Overview
 
 This repository provides a comprehensive overview of Identity and Access Management (IAM), focusing on its purpose, components, and implementation practices in cloud and enterprise environments. The aim is to educate developers, system admins, and security teams on IAM essentials and offer a hands-on guide for setting up and managing IAM policies.
 
 Introduction
 Identity and Access Management (IAM) is a framework of policies, technologies, and practices designed to manage digital identities and control access to resources. IAM helps ensure the right individuals have the right access to resources at the right time. It is crucial for securing sensitive data and resources in any organization, especially those operating in a cloud environment.
+
 Objectives
 
 •	To understand the purpose and benefits of IAM
@@ -85,8 +90,32 @@ While IAM is essential for managing access control, it does have limitations:
 •	Requires continuous auditing and updates as roles and permissions evolve.
 •	Proper training and understanding of IAM policies are critical for avoiding misconfigurations.
 
+OUTPUT:
+
+<img width="1040" height="455" alt="image" src="https://github.com/user-attachments/assets/217c7862-b767-4e83-b3c6-b27c9c4b10dc" />
+
+
+<img width="1898" height="847" alt="image" src="https://github.com/user-attachments/assets/eca53125-69e8-4d29-9010-e76ef6bb54ec" />
+
+
+<img width="1903" height="830" alt="image" src="https://github.com/user-attachments/assets/22dc876d-a841-406e-9a01-66ab426011da" />
+
+
+<img width="1892" height="841" alt="image" src="https://github.com/user-attachments/assets/2d53a559-9414-4bed-85a2-ce863d40367f" />
+
+
+<img width="1900" height="842" alt="image" src="https://github.com/user-attachments/assets/32664a0e-98a9-4350-9a3b-a218591daa75" />
+
+
+
+<img width="1902" height="857" alt="image" src="https://github.com/user-attachments/assets/aaea9af0-b6c2-4ca9-a176-95b10bc6009d" />
+
+
+<img width="604" height="654" alt="image" src="https://github.com/user-attachments/assets/37c3847c-3381-4110-952c-eea7ffcf0bad" />
+
 
 Conclusion
+
 IAM is a foundational aspect of security in cloud environments, helping control and monitor access to resources effectively. By following best practices and regularly auditing IAM configurations, organizations can maintain robust access control, protecting their digital assets from unauthorized access.
 
 
